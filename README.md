@@ -1,3 +1,5 @@
+Python Project3
+
 📌 Project Overview
 
 The Google Play Store is one of the world's largest mobile application marketplaces, hosting millions of apps across various categories. This project performs an Exploratory Data Analysis (EDA) on the Google Play Store Apps dataset to uncover patterns related to app categories, ratings, installs, pricing, content ratings, and genres.
@@ -74,4 +76,4 @@ Verified data consistency before visualization.
 
 Priyanshu
 
-Aspiring Data Analyst | Python | SQL|Excel|Power BI | Data Visualization | Exploratory Data Analysis
+Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization | Exploratory Data Analysis
